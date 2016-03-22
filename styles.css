@@ -1,0 +1,43 @@
+.dog {
+  width: 300px;
+}
+
+.squirrel-hide {
+  display: none;
+}
+
+#squirrel {
+  width: 300px;
+  margin-left: 600px;
+  height: auto;
+}
+
+h1 {
+  height: 100px;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 50px;
+  background-color: red;
+  color: white;
+  border-color: black;
+  border-width: 5px;
+  border-radius: 5px;
+  border-style: solid;
+
+}
+h2 {
+  height: 75px;
+  padding-top: 15px;
+  margin-left: 595px;
+  width: 400px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+  background-color: yellow;
+  color: black;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 5px;
+  border-style: solid;
+
+}
